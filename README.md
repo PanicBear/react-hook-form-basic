@@ -4,4 +4,4 @@
 ### 사용법
 - npm install --legacy-peer-deps
 - yarn dev
-- [테스트 페이지 이동](http://localhost:3000/forms) 이동
+- [테스트 페이지 이동](http://localhost:3000/forms)
